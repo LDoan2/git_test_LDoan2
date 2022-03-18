@@ -8,3 +8,8 @@ Pate au sucre
 >>>>>>> 0c1080fbc347f07879acc48b77b944fff49160ac
 
 oui oui baguette
+
+Test second tp git
+
+Clement ne verra pas ce message (╯°□°）╯︵ ┻━┻
+
